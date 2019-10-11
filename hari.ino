@@ -250,7 +250,7 @@ void f()
       digitalWrite(7,1);
          digitalWrite(8,1);
          delay(100);
-            digitalWrite(5,1);
+            digitalWrite(5,7);
                digitalWrite(6,1);
                delay(100);
                   digitalWrite(2,1);
