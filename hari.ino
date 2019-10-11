@@ -477,7 +477,7 @@ delay(2500);
   {allon();} 
   delay(100);
   {alloff();} 
-  delay(100);
+  delay(1000);
   {allon();} 
   delay(50);
    {alloff();} 
